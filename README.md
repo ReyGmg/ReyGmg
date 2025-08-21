@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm ReyGmg 👋
 
 <!--
 **ReyGmg/ReyGmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **SA-MP server project**
+- 🌱 I’m currently learning **SA-MP Pawn Code**
+
+![Rey](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXMzMmsxdTJtNGlyazc1NHIyNTVpbHkxMW4yNDA4cnI0ZTAwdmtoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)
+
