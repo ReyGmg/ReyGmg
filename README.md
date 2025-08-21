@@ -21,10 +21,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ReyGmg&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
+
+![Rey](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnV6dm9lN2pzOWFrZGw0MDlydDczb3FlMzM1anR2dGVrOHhtc3VpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ReyGmg&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Rey](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDg3dGxnOHE3cWM4bXpiYmpuZnU5cXlleHFzMXljcnk5ZWc1ZHNmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKKImRT3NiD8IM0/giphy.gif)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
