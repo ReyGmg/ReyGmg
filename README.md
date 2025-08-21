@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **SA-MP server project**<br> - 🌱 I’m currently learning **SA-MP Pawn Code**
+- 🔭 I’m currently working on **SA-MP server project**
+- 🌱 I’m currently learning **SA-MP Pawn Code**
 
 
 ## 🌐 Socials:
